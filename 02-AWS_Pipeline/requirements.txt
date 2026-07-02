@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+
+paho-mqtt
+
+pandas
+
+streamlit
+streamlit-autorefresh
+
+plotly
+
+requests
